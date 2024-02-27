@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.card {
+    max-width: 300px;
+    height: 450px;
+    margin: 75px auto;
+    padding: 15px;
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    border-radius: 15px;
+}
+
+.cardImg {
+    width: 265px;
+    border-radius: 10px;
+}
+
+.cardTitle {
+    font-size: 20px;
+    padding: 10px;
+    color: hsl(218, 44%, 22%);
+}
+
+.cardTxt {
+    padding: 5px;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+.credits {
+    bottom: 0;
+    padding: 5px;
+    color: hsl(218, 44%, 22%);
+    font-size: 12px;
+    text-align: center;
+}
+
+.credits p a {
+    color: hsl(220, 15%, 55%);
+    text-decoration: none;
+    font-style: italic;
+}
