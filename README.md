@@ -29,8 +29,8 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Frontend Mentor Solution -> https://www.frontendmentor.io/solutions/qr-code-coTpc4c0FD
+- Live Site -> https://natashaac.github.io/Challenge-QR_Code/
 
 ## My process
 
